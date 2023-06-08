@@ -1,6 +1,6 @@
 name: sunmi_printer_plugin
-description: "Support V2 Pro Sunmi Label Version and Null safety."
-version: 1.0.0
+description: "Support V2 Pro Sunmi Label Version and Null safety. You can use this package to print some text, Qrcodes, images and etc."
+version: 1.0.1
 homepage: https://github.com/warith313/sunmi_printer_plugin
 maintainer: WaRiTh
 
