@@ -22,8 +22,11 @@ doc/api/
 
 example/ios/.symlinks/plugins/sunmi_printer_plugin
 example/build
+example/android/.idea
+example/android/.gradle
 .DS_Store
 .idea
+example/.idea
 example/.DS_Store
 .DS_Store?
 **/.DS_Store
